@@ -13,7 +13,7 @@ vi:
   footer:
     contribute:
       heading: Đóng góp
-      description: Muốn cho một gợi ý? Nội dung này là nguồn mở. Hãy cùng giúp chúng tôi cải tiến nó.
+      description: Bạn muốn cho một góp ý? Nội dung này là nguồn mở. Hãy cùng giúp chúng tôi cải tiến nó.
       button: Đóng góp
     subscribe:
       heading: Giữ liên lạc
@@ -24,7 +24,7 @@ vi:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] với [love] bởi [github] và [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: mã
       # Label for love octicon
       love_label: yêu mến
       # Label for the contributors link
