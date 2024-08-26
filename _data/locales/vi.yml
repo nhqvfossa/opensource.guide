@@ -1,31 +1,31 @@
-en:
-  locale_name: English
+vi:
+  locale_name: Tiếng Việt
   nav:
-    about: About
-    contribute: Contribute
+    about: Về chúng tôi
+    contribute: Đóng góp
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: Phần mềm nguồn mở được những người như bạn làm ra. Hãy học cách tạo và phát triển dự án của bạn.
+    opensourcefriday: Hôm nay là thứ sáu! Hãy bỏ ra vài giờ để đóng góp cho phần mềm mà bạn sử dụng và yêu mến
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: Mục lục
+    back_to_all_guides: Trở lại tất cả hướng dẫn
+    related_guides: Các hướng dẫn có liên quan
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: Đóng góp
+      description: Muốn cho một gợi ý? Nội dung này là nguồn mở. Hãy cùng giúp chúng tôi cải tiến nó.
+      button: Đóng góp
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: Giữ liên lạc
+      description: Hãy là người đầu tiên biết về các mẹo và tài nguyên nguồn mở mới nhất của GitHub.
+      label: Địa chỉ Email
+      button: Đăng ký
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] với [love] bởi [github] và [friends]"
       # Label for code octicon
       code_label: code
       # Label for love octicon
-      love_label: love
+      love_label: yêu mến
       # Label for the contributors link
-      friends_label: friends
+      friends_label: bạn bè
